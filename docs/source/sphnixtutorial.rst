@@ -1,6 +1,6 @@
 .. _sphnixBasics:
 
-Sphnix tutorial
+Sphnix tutorial for beginners
 =======================
 
 References
