@@ -1,0 +1,6 @@
+warnings_filter
+---------------
+
+Copied from https://github.com/zephyrproject-rtos/zephyr/blob/main/doc/_extensions/zephyr/warnings_filter.py
+License: APACHE LICENSE, VERSION 2.0 https://www.apache.org/licenses/LICENSE-2.0.txt
+See also: https://docs.zephyrproject.org/2.6.0/README.html#filtering-expected-warnings
